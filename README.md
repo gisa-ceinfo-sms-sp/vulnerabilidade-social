@@ -4,7 +4,7 @@ Espaço para disseminação de conhecimentos, publicação de testes, compartilh
 
 
 Ferramenta para visualização de dados espaciais abertos:
-Índice de Vulnerabilidade Social (IVS/IPEA) segundo áreas de abrangência de UBS (AA-UBS), Supervisões Técnicas de Saúde (STS) e Coordenadorias Reguonais de Saúde (CRS) no Município de São Paulo.
+Índice de Vulnerabilidade Social (IVS/IPEA), áreas de abrangência de UBS (AA-UBS), Supervisões Técnicas de Saúde (STS) e Coordenadorias Reguonais de Saúde (CRS) no Município de São Paulo.
 Fontes:
 IVS - IPEA, 2010
 AA-UBS - SMS-SP, 2022
