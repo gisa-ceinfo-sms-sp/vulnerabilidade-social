@@ -8,3 +8,5 @@ STS - SMS-SP, 2018
 CRS - SMS-SP, 2018
 
 Acesse em: <p>https://gisa-ceinfo-sms-sp.github.io/conhecimentos/#11/-23.6392/-46.5621</p>
+
+Acesse em: <p>https://gisa-ceinfo-sms-sp.github.io/vulnerabilidade-social/#11/-23.6392/-46.5621</p>
