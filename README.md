@@ -1,8 +1,4 @@
-# conhecimentos GISA
-
-Espaço para disseminação de conhecimentos, publicação de testes, compartilhamento de experiências
-
-
+#Vulnerabilidade Social segundo UDH (PNUD, IBGE e IPEA/GovBR, 2010)
 Ferramenta para visualização de dados espaciais abertos:
 Índice de Vulnerabilidade Social (IVS/IPEA), áreas de abrangência de UBS (AA-UBS), Supervisões Técnicas de Saúde (STS) e Coordenadorias Reguonais de Saúde (CRS) no Município de São Paulo.
 Fontes:
