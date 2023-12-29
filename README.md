@@ -10,7 +10,8 @@ Ferramenta para visualização de dados espaciais abertos:
 
 *Valor do IDHM sintético para cada UDH e para as dimensões de renda, escolaridade e longevidade. Também apresenta a classisifcação das vulnerabilidades e quantidade de pessoas residentes nas UDH.
 
-![image](https://github.com/gisa-ceinfo-sms-sp/vulnerabilidade-social/assets/75272641/15c65860-d0d6-4872-bae2-877573edeab5) ![image](https://github.com/gisa-ceinfo-sms-sp/vulnerabilidade-social/assets/75272641/fe46d4f7-3ae4-4827-9210-6741f42bb14e)
+![image](https://github.com/gisa-ceinfo-sms-sp/vulnerabilidade-social/assets/75272641/15c65860-d0d6-4872-bae2-877573edeab5)   ![image](https://github.com/gisa-ceinfo-sms-sp/vulnerabilidade-social/assets/75272641/f967d494-7960-4f16-af6c-17527184dc32)
+
 
 
 Fontes:
