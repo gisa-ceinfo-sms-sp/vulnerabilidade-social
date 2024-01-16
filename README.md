@@ -19,7 +19,10 @@ AA-UBS - SMS-SP, 2022
 STS - SMS-SP, 2018
 CRS - SMS-SP, 2018
 
-![image](https://github.com/gisa-ceinfo-sms-sp/vulnerabilidade-social/assets/75272641/b38f3119-c9b8-4172-968c-cccfe07a2cfa)
 
 Aparência da tela exibida:
+![image](https://github.com/gisa-ceinfo-sms-sp/vulnerabilidade-social/assets/75272641/b38f3119-c9b8-4172-968c-cccfe07a2cfa)
+
+
+![image](https://github.com/gisa-ceinfo-sms-sp/vulnerabilidade-social/assets/75272641/c769e685-b52c-4fed-b7a3-f9877f0e66b9)
 
